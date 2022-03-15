@@ -21,5 +21,5 @@ An implementation for the 4.0 industry of the Pic-F18520 as a sensor of temperat
 ## Run the server 
 Both the server and the client are already deploy inhttp://iot.c.gtco.team/    
 
-#Author 
-##Camilo Quiñones
+# Author 
+## Camilo Quiñones
