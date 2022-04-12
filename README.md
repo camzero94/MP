@@ -19,7 +19,7 @@ An implementation for the 4.0 industry of the Pic-F18520 as a sensor of temperat
 * Run python3 client.py to make the PIC-F18520 start collecting the information of the enviroment, then send it to the web server and finally being pushed to the web server.
 
 ## Run the server 
-Both the server and the client are already deploy inhttp://iot.c.gtco.team/    
+Both the server and the client are already deploy in http://iot.c.gtco.team/    
 
 # Author 
 ## Camilo Quiñones
