@@ -1,5 +1,5 @@
 
-<p align="center"><img width=70% src="https://github.com/camzero94/MP/blob/main/media/Pic_Title.png"></p>
+<p align="center"><img width=70% src="https://github.com/camzero94/MP/blob/master/media/Pic_Title.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -11,9 +11,6 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 
-
-
-
 # Basic Overview
 An implementation for the 4.0 industry of the Pic-F18520 as a sensor of temperature and light that connects to a web server via Socket protocol.
 
@@ -21,7 +18,7 @@ An implementation for the 4.0 industry of the Pic-F18520 as a sensor of temperat
 - Innovative way of connect the the PIC-F18520 via socket protocol to "push" data to the forntend client via the socket protocol.
 - It will help industries where enviroment is a key factor in the quality of the final product.
 ## Architecture
-<p align="center"><img width=70% src="https://github.com/camzero94/MP/blob/main/media/PIC.drawio.svg"></p>
+<p align="center"><img width=70% src="https://github.com/camzero94/MP/blob/master/media/PIC.png"></p>
 
 ## Prerequisites
 - Python 3.8 or later.
