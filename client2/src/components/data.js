@@ -3,8 +3,10 @@ import { useContext, useState, useCallback, useEffect } from "react";
 import ContextSocket from "../context/context-socketio";
 
 function ComponentLayer() {
+
   const Socket = useContext(ContextSocket);
   const [message, setMessage] = useState([]);
+
   const onReceiveMessage2 = useCallback(
     (receivedMessage) => {
       const obj = JSON.parse(receivedMessage);
@@ -34,7 +36,6 @@ function ComponentLayer() {
       const globalArr = [];
       globalArr.push(arr[0][1]);
       globalArr.push(arr[1][1]);
-      // console.log(JSON.parse(receivedMessage));
       setMessage(globalArr);
     },
     [setMessage]
